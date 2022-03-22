@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[825],{7541:function(a){a.exports=JSON.parse('{"allTagsPath":"/WikiCasaMosaico/blog/tags","slug":"/WikiCasaMosaico/blog/tags/hola","name":"hola","count":1,"permalink":"/WikiCasaMosaico/blog/tags/hola"}')}}]);

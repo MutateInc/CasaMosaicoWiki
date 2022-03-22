@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[396],{278:function(s){s.exports=JSON.parse('{"allTagsPath":"/WikiCasaMosaico/blog/tags","slug":"/WikiCasaMosaico/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/WikiCasaMosaico/blog/tags/docusaurus"}')}}]);

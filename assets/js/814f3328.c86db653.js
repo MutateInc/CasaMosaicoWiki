@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[535],{5641:function(i){i.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Junta con Roc\xedo para Acta de Proyecto","permalink":"/CasaMosaicoWiki/blog/2022/03/22/"},{"title":"MDX Blog Post","permalink":"/CasaMosaicoWiki/blog/mdx-blog-post"}]}')}}]);

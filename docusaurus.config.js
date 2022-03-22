@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Mutate', // Usually your GitHub org/user name.
-  projectName: 'WikiCasaMosaico', // Usually your repo name.
+  organizationName: 'MutateInc', // Usually your GitHub org/user name.
+  projectName: 'CasaMosaicoWiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 

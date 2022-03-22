@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Wiki de Casa Mosaico',
   tagline: "Bienvenido a la Wiki del proyecto de Casa Mosaico",
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://Mutate.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,7 +16,6 @@ const config = {
   organizationName: 'MutateInc', // Usually your GitHub org/user name.
   projectName: 'CasaMosaicoWiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-  trailingSlash: true,
 
   presets: [
     [

@@ -16,7 +16,7 @@ const config = {
   organizationName: 'MutateInc', // Usually your GitHub org/user name.
   projectName: 'CasaMosaicoWiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-  trailingSlash: false,
+  trailingSlash: true,
 
   presets: [
     [

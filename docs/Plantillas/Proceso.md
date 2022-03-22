@@ -1,0 +1,98 @@
+# PL04-Plantilla de proceso
+
+## Objetivo
+
+Crear un estandar para la creación de procesos
+
+## Objetivo
+
+Objetivo del proceso
+
+## Entradas
+
+- Entrada 1
+- Entrada 2
+- Entrada n
+
+## Procedimiento
+
+<table>
+    <thead>
+        <th>Fase</th>
+        <th>Descripción</th>
+        <th>Responsables</th>
+        <th>Áreas CMMI</th>
+    </thead>
+
+<tbody>
+    <tr>
+      <td>Nombre fase 1</td>
+      <td>
+        <ul>
+            <li>Actividades fase 1 </li>
+        </ul>
+      </td>
+      <td>Responsables fase 1</td>
+      <td>
+        <ul>
+          <li>Acrónimo area 1 práctica 1, práctica 2, práctica n</li>
+          <li> Acrónimo area 2 práctica 1, práctica 2, práctica n</li>
+          <li> Acrónimo area n práctica 1, práctica 2, práctica n</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Nombre fase 2</td>
+      <td>
+        <ul>
+            <li>Actividades fase 2 </li>
+        </ul>
+      </td>
+      <td>Responsables fase 2</td>
+      <td>
+        <ul>
+          <li>Acrónimo area 1 práctica 1, práctica 2, práctica n</li>
+          <li> Acrónimo area 2 práctica 1, práctica 2, práctica n</li>
+          <li> Acrónimo area n práctica 1, práctica 2, práctica n</li>
+        </ul>
+      </td>
+    </tr>
+     <tr>
+      <td>Nombre fase 3</td>
+      <td>
+        <ul>
+            <li>Actividades fase 3 </li>
+        </ul>
+      </td>
+      <td>Responsables fase 3</td>
+      <td>
+        <ul>
+          <li>Acrónimo area 1 práctica 1, práctica 2, práctica n</li>
+          <li> Acrónimo area 2 práctica 1, práctica 2, práctica n</li>
+          <li> Acrónimo area n práctica 1, práctica 2, práctica n</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Salidas
+
+- Salida 1
+- Salida 2
+- Salida n
+
+## Métricas
+
+- Métrica 1
+- Métrica 2
+- Métrica n
+
+## Versiones
+
+| Versión | Descripción                      | Responsables   | Fecha      |
+| ------- | -------------------------------- | -------------- | ---------- |
+| 1.0     | Creación de la plantilla         | Pablo Valencia | 4/03/2022  |
+| 2.0     | Cambiar formato de procedimiento | Pablo Valencia | 12/03/2022 |
+| 2.1     | Poner plantilla en Markdown      | Pablo Valencia | 14/03/2022 |
+| 2.2     | Agregar tabla html para plantilla| Fernando Vargas| 16/03/2022 |

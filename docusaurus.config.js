@@ -9,7 +9,7 @@ const config = {
   title: 'Wiki de Casa Mosaico',
   tagline: "Bienvenido a la Wiki del proyecto de Casa Mosaico",
   url: 'https://Mutate.github.io',
-  baseUrl: '/WikiCasaMosaico/',
+  baseUrl: '/CasaMosaicoWiki/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

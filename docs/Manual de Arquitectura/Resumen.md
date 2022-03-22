@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Arquitectura de Solución de Casa Mosaico
 
 Para tomar las decisiones más acertadas para el proyecto y para el equipo en lo referente a la arquitectura, es necesario tener como prioridad la necesidad del cliente, por lo cual en este documento se describirá de nivel más alto a más bajo el proceso y decisiones.
@@ -22,7 +26,7 @@ Al momento de redactar este documento se tienen las siguientes propuestas de ben
 2 (TENTATIVO). Llevar un registro de los pedidos de los clientes con su respectivo monto, fecha, etc., habilitando una búsqueda por cualquiera de estos campos para que a la hora de que el cliente busque identificar a quién pertenece un pago se evite buscar dicho campo en las facturas manualmente.
 ```
 
-## Diagramas de Proceso
+## Procesos
 
 Para entender y definir mejor el objetivo a lograr con la solución del cliente es necesario tener claridad con los procesos del cliente relacionados con las necesidades identificadas. Los cuales describiremos a continuación.
 

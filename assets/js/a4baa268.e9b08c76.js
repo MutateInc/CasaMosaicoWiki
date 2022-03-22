@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[174],{202:function(a){a.exports=JSON.parse('{"allTagsPath":"/WikiCasaMosaico/blog/tags","slug":"/WikiCasaMosaico/blog/tags/facebook","name":"facebook","count":1,"permalink":"/WikiCasaMosaico/blog/tags/facebook"}')}}]);

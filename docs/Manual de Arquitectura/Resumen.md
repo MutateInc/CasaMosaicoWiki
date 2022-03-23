@@ -21,3 +21,7 @@ Otra consideración fue AWS o Azure, sin embargo, aunque son más flexibles y ti
 ## Frontend
 
 Decidimos usar Vue, ya que aunque contamos con un poco de curva de aprendizaje, tiene mejor integración con el hosting (usaremos algún hosting de sitio estático o sencillo como el de firebase o github pages) y con herramientas de automatización (CI, CD, etc.) y dicha curva de aprendizaje no es demasiado alta. Otra consideración grande fue Laravel ya que la curva de aprendizaje es bastante baja para el equipo, sin embargo no es muy compatible con el hosting elegido ni el backend.
+
+## Otras Estructuras
+
+- Debido a que usaremos Vue, se sugiere desarrollar una librería que nos sirva como API para interacción con Firebase, de tal manera propensamos la separación en MVC, evitamos repetición de código, facilitamos el desarrollo de pruebas unitarias, y se facilita el mantenimiento futuro. (Queda pendiente agregar esto en un diagrama formal de la arquitectura)

@@ -17,3 +17,7 @@ Este proyecto, Taco Thursday, es un sistema sencillo en el cual se le permitirá
 
 - [Quick start Vue](https://vuejs.org/guide/quick-start.html).
 - [Firebase Docs](https://firebase.google.com/docs?gclid=CjwKCAjwrfCRBhAXEiwAnkmKmUkDbTX2Kbj35hC208zKsU-A5N2m8sj4iBNz6OfahOO7VdfzsOPKoRoC2wwQAvD_BwE&gclsrc=aw.ds).
+
+# Solución
+
+(to be defined)

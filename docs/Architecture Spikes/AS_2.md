@@ -13,6 +13,14 @@ Con el motivo de reducir la curva de aprendizaje del equipo en lo que concierne 
 
 Este proyecto, Taco Thursday, es un sistema sencillo en el cual se le permitirá a un usuario crear un grupo (donde podrá invitar gente), definir un menú, y cada miembro del grupo podrá definir su orden basándose en ese menú. Finalmente, los miembros podrán ver la orden total del grupo.
 
+## Stack Tecnológico
+
+Para este proyecto, el stack tecnológico seleccionado será:
+
+- Firebase: firestore, hosting, storage, auth.
+- Vue
+- Vuetify (opcional)
+
 ## Recursos de aprendizaje
 
 - [Quick start Vue](https://vuejs.org/guide/quick-start.html).

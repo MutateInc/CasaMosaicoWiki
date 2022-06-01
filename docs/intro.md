@@ -21,9 +21,11 @@ La necesidad(es) identificada de Casa Mosaico al momento de redactar este docume
 Al momento de redactar este documento se tienen las siguientes propuestas de beneficio en una solución para las necesidades del cliente descritas en muy alto nivel, ya que aún no están aprovadas por cliente (Casa Mosaico).
 
 ```
-1. Registrar facturas (tanto de proveedores como de clientes) de tal manera que se evite uso extensivo de procesos intermedios para registrar dichos pedidos y mantener sincronía con el inventario en bodega, reduciendo así puntos de fallo en los cuales actualmente se pierde certeza de la información y que eventualmente lleva a retrabajo. Esto proporcionando un beneficio final en el cual al registrar una factura este proceso no debería tomar más de 5-10 minutos ya que consistiría de sólo llenar un formulario.
+1. En el proceso de registrar un movimiento, reducir los puntos de falla humana de 5 a 1, para el día 10 de junio.
 
-2 (TENTATIVO). Llevar un registro de los pedidos de los clientes con su respectivo monto, fecha, etc., habilitando una búsqueda por cualquiera de estos campos para que a la hora de que el cliente busque identificar a quién pertenece un pago se evite buscar dicho campo en las facturas manualmente.
+2. Reducir el tiempo de registrar un movimiento a máximo 5 minutos, para el día 10 de junio.
+
+3. Reducir el tiempo de identificar el saldo de un cliente a un máximo de 5 minutos, para el día 10 de junio.
 ```
 
 ## Procesos

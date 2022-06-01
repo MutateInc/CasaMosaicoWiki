@@ -10,3 +10,8 @@
 - Las funciones deben describir el motivo de su uso de manera clara y breve y debe escribirse en camelcase comenzando con letras minúsculas (por ejemplo, guardarFuncion).
 - Al momento de declarar una colección, arreglos o estructura de datos de múltiples objetos, esta debe de ser declarada en plural, así mismo, al declarar una estructura individual, esta debe de ser declarada en singular.
 - Todos los nombres deberán estar en inglés, a excepción de si dicho nombre será visualizado en el sistema, en cuyo caso deberá estar en español. Ejemplo de esto son los nombres de campos en la base de datos; ya que estos nombres son obtenidos y desplegados, deberán estar en español.
+
+## Estándar de documentación
+
+- En archivos API (db.js y auth.js) las funciones deberán estar documentadas con el estándar JSDOC, ya que esto permite que el autocomplete de los editores de código visualicen dicha documentación al usar las funciones.
+- En archivos que no sean APIs, las funciones con nombres que no describan su propósito deben ser documentadas, en la documentación se deben definir el propósito y las entradas y salidas de la función.

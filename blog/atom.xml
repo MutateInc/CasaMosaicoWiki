@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Mutate.github.io/CasaMosaicoWiki/blog</id>
-    <title>Wiki de Casa Mosaico Blog</title>
+    <title>Casa Mosaico - Quesadillas Blog</title>
     <updated>2022-03-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Mutate.github.io/CasaMosaicoWiki/blog"/>
-    <subtitle>Wiki de Casa Mosaico Blog</subtitle>
+    <subtitle>Casa Mosaico - Quesadillas Blog</subtitle>
     <icon>https://Mutate.github.io/CasaMosaicoWiki/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Junta con Rocío para Acta de Proyecto]]></title>

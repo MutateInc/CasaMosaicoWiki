@@ -76,3 +76,13 @@ Para entender y definir mejor el objetivo a lograr con la solución del cliente 
 - El sistema que usa Rocío actualmente para facturar es Contpaq.
 - Podría ser útil imprimir el inventario del pedido para darlo al operador y pueda preparar el envío, asegurándose así de que tenga las mismas cantidades que se van a facturar y que se actualizarán del inventario.
 - Hay que considerar qué sucede si Rocío se enferma y no puede trabajar presencialmente.
+
+## Quienes Somos
+
+- Fernando Vargas
+- Emmanuel Palacios
+- Carlos Ayala
+- Omar Molina
+- Eduardo Cadena
+- Guillermo Espino
+- Santiago Arellano
